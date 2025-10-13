@@ -9,9 +9,9 @@ It’s built using Object-Oriented Programming (OOP) concepts with a GUI interfa
 
 With this system, you can:
 
-- View a list of available food items 🍕
+- View a list of available food items 
 
-- Add food items to your order 🛒
+- Add food items to your order 
 
 - Remove items from your cart if you change your mind
 
