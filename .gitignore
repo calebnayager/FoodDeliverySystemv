@@ -1,2 +1,12 @@
 bin/
 *.class
+# Java build files
+out/
+*.class
+
+# Generated JARs
+FoodDeliverySystem-new.jar
+
+# Packaging/build output
+package-input/
+dist/
